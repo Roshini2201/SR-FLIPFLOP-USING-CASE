@@ -59,5 +59,10 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 ![328806289-8dd16108-90e3-4a2a-91d4-f882f0045ced](https://github.com/Roshini2201/SR-FLIPFLOP-USING-CASE/assets/154105318/11b49b36-a215-4fab-a649-fa268bec7730)
 
+
+
+
+
+
 **RESULTS**
 Thus the program to implement a SR flipflop using verilog and validating their functionality using their functional tables is successfully completed.
