@@ -1,3 +1,6 @@
+## EX.NO:6
+## DATE:
+
 # SR-FLIPFLOP-USING-CASE
 
 **AIM:**
@@ -42,11 +45,11 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 4.Create nodes for inputs and outputs to generate the timing diagram.   
 
 5.For different input combinations generate the timing diagram  
+  
+**PROGRAM**
 
 **developed by: ROSHINI S**  
 **register no : 212223240142**  
-
-**PROGRAM**
 
 ![328806251-78bf3f72-3fab-44a4-80d0-2636e22f58f0](https://github.com/Roshini2201/SR-FLIPFLOP-USING-CASE/assets/154105318/5687658a-94c6-49e3-8caf-a1baf9734d9c)
 
